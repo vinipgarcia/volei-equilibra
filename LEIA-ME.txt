@@ -1,0 +1,22 @@
+VOLEI EQUILIBRA - MVP v6
+
+COMO ABRIR
+1. Extraia o ZIP.
+2. Abra index.html no Microsoft Edge, Google Chrome ou Safari.
+3. Nao execute na pre-visualizacao do Microsoft 365/Copilot.
+
+BACKUP EM ANDROID E IPHONE
+A V6 possui duas formas:
+1. Arquivo JSON: Exportar backup e Importar backup.
+2. Codigo de backup: use quando o seletor do celular nao mostrar o arquivo JSON.
+
+TRANSFERENCIA POR CODIGO
+No aparelho antigo:
+- Clique em Copiar codigo de backup ou Compartilhar codigo.
+- Envie o texto para o aparelho novo por um meio de sua escolha.
+
+No aparelho novo:
+- Cole o texto em Colar codigo de backup.
+- Clique em Importar codigo.
+
+O codigo inclui jogadores e configuracao de pesos.

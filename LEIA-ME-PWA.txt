@@ -1,0 +1,15 @@
+VOLEI EQUILIBRA PWA v7
+
+Esta versao inclui manifest, service worker e icones para instalacao na tela inicial.
+
+ATENCAO
+Para instalar como aplicativo, a pasta precisa ser publicada em um endereco HTTPS. Abrir index.html diretamente da pasta funciona para teste, mas nao oferece instalacao PWA completa.
+
+PUBLICACAO
+Envie todos os arquivos desta pasta, sem alterar a estrutura, para uma hospedagem HTTPS de site estatico.
+
+ANDROID
+Abra o endereco publicado no Chrome. Use Instalar aplicativo ou Menu > Adicionar a tela inicial.
+
+IPHONE
+Abra o endereco publicado no Safari. Toque em Compartilhar > Adicionar a Tela de Inicio.
